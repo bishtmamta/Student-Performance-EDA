@@ -1,3 +1,4 @@
+📊 Student Performance Analysis – EDA Project
 📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of student academic performance data. The analysis aims to understand how demographic, socio-economic, and educational factors affect student scores in Math, Reading, and Writing.
