@@ -1,15 +1,3 @@
-Tumhara README kaafi strong hai, but agar notebook me:
-
-* ML models properly train nahi kiye,
-* T-Test / ANOVA / Chi-Square fully perform nahi kiye,
-* ya advanced statistical validation nahi dikh raha,
-
-toh README thoda over-claimed lag sakta hai.
-
-Isliye better hai ki README ko notebook ke according realistic rakho. Ye updated version zyada accurate rahega 👇
-
----
-
 # 📊 Student Performance Analysis – EDA Project
 
 ## 📌 Project Overview
